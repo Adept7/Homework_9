@@ -1,3 +1,5 @@
+package homework9;
+
 /**
  * This class encapsulates an album of music.
  * It stores the artist, and the name of the

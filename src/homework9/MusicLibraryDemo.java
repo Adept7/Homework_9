@@ -1,7 +1,9 @@
+package homework9;
+
 /**
- * One of the testers for MusicLibrary.
+ * One of the testers for homework9.MusicLibrary.
  */
-public class MusicLibraryDemo2
+public class MusicLibraryDemo
 {
     public static void main(String[] args)
     {
@@ -19,6 +21,6 @@ public class MusicLibraryDemo2
         ml.addAlbum(d);
         ml.addAlbum(e);
 
-        ml.printInReverseOrder();
+        ml.printInOrder();
     }
 }

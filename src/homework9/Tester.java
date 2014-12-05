@@ -1,5 +1,7 @@
+package homework9;
+
 /**
- * One of the testers for MusicLibrary.
+ * One of the testers for homework9.MusicLibrary.
  */
 public class Tester
 {
